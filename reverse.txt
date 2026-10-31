@@ -1,0 +1,4 @@
+Packages your application with its dependencies.
+Runs the application in a container.
+Helps it run consistently on different computers.
+this is docker :
